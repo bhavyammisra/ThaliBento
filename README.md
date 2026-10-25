@@ -1,4 +1,4 @@
-# ThaliBento 🍱✈️
+# ThaliBento 
 
 **A special-meal safety net for Japan Airlines that plugs into the tools JAL already uses.**
 थाली + 弁当: an Indian thali, packed with Japanese care.
