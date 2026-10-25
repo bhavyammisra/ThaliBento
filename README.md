@@ -61,3 +61,6 @@ bash scripts/sync.sh                         # pull in teammates' shipped work
 bash scripts/ship.sh "what works now"        # merge your branch into main
 bash scripts/radar.sh                        # who is on what, and any overlaps
 ```
+
+## Pitch
+Final-round deck and one-page summary: [`pitch/`](pitch/).
